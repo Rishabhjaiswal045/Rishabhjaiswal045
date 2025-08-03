@@ -60,6 +60,8 @@ CALCULATE(
         Orders_1[Order Date] <= TODAY()
     )
 )
+
+
 🧮 2. YTD Sales 2022
 dax
 Copy
@@ -73,6 +75,8 @@ CALCULATE(
         Orders_1[Order Date] <= DATE(2022, MONTH(TODAY()), DAY(TODAY()))
     )
 )
+
+
 🧮 3. Growth % (2022 vs 2023)
 dax
 Copy
@@ -82,6 +86,8 @@ DIVIDE(
     [YTD Sales 2023] - [YTD Sales 2022],
     [YTD Sales 2022]
 )
+
+
 🧮 4. Budget 2023
 dax
 Copy
@@ -91,6 +97,8 @@ CALCULATE(
     SUM(Budget[Amount]),
     Budget[Year] = 2023
 )
+
+
 🧮 5. Profit by Sub-Category
 Use in a visual:
 
@@ -105,6 +113,8 @@ Copy
 Edit
 Total Profit =
 SUM(Details_1[Profit])
+
+
 🧮 6. Profit by Month
 Ensure Order Date is in the axis (Month format) and plot:
 
@@ -134,6 +144,8 @@ CALCULATE(
         YEAR(Orders_1[Order Date]) = 2023
     )
 )
+
+
 🧮 7. Payment Mode Share (for pie chart)
 Use:
 
