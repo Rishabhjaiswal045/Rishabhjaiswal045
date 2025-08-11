@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working as an **Operations Analyst** at **College Platform**  
 - 🌱 I’m currently learning **Data Analytics** from **CodeBasics**  
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/rishabh-jaiswal-9ab86b137)**  
+- 📫 How to reach me: **[LinkedIn](www.linkedin.com/in/rishabh-jaiswal-🇮🇳-499941219)**  
 - ⚡ Fun fact: **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
