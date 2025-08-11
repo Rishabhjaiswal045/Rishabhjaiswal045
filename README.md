@@ -2,22 +2,34 @@
 <h3 align="center">📊 Data Analyst & Operations Specialist | 💼 Affiliate Marketing Professional 🚀</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Data+Analytics+Enthusiast;Operations+Analyst;Affiliate+Marketing+Pro;Python+%7C+SQL+%7C+Data+Visualization" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=📊+Data+Analytics+Enthusiast;📈+Operations+Analyst;🎯+Affiliate+Marketing+Pro;🐍+Python+%7C+🗄️+SQL+%7C+📊+Data+Visualization;📋+Turning+Data+into+Insights+💡" alt="Typing SVG" />
 </div>
-<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif?cid=6c09b9527zudkgt1r409vaz4trukis6asz5tt12vxz1zigy8&ep=v1_stickers_search&rid=giphy.gif&ct=s">
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300" alt="Data Analytics GIF"/>
+</div>
+
+<img align="right" alt="Data Analytics" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=rishabhjais&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhjais" /> 
+  <img src="https://img.shields.io/github/followers/rishabhjais?label=Followers&style=social" alt="followers" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Analytics-blue" alt="focus" />
 </p>
+
+## 📊 About Me
 
 - 🔭 I'm currently working as an **Operations Analyst** at **Adcounty Media Ltd** - *🎯 Affiliate Marketing & Advertising Services*
 - 🌱 I'm currently learning **Data Analytics** from **CodeBasics** and expanding my skills in **🐍 Python & 🗄️ SQL**
-- 📊 Passionate about **Data-Driven Decision Making** and **📈 Performance Marketing Analytics**
+- 📊 Passionate about **📈 Data-Driven Decision Making** and **📊 Performance Marketing Analytics**
 - 💼 Experienced in **🎯 Affiliate Marketing Operations**, **⚡ Campaign Optimization**, and **📊 Performance Tracking**
 - 📈 Working with **📊 Marketing Data**, **🎯 Conversion Analytics**, and **💰 ROI Optimization**
+- 🧮 Love working with **📊 Spreadsheets**, **📈 Charts**, and **🔍 Data Mining**
+- 🤖 Exploring **Machine Learning** and **🔮 Predictive Analytics**
 - 🌍 Based in **Gurugram, Haryana, India** 📍
-- 📫 How to reach me: **[LinkedIn](www.linkedin.com/in/rishabh-jaiswal-🇮🇳-499941219)** 💬
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/rishabh-jaiswal-%F0%9F%87%AE%F0%9F%87%B3-499941219/)** 💬
 - ⚡ Fun fact: **I turn data into actionable insights (and yes, I'm still funny!) 😄**
+- 🎯 Goal: **Become a Senior Data Analyst by 2025** 🚀
 
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
@@ -55,48 +67,133 @@
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40" />
   </a>
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="40" height="40" />
+  </a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" />
+  </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="Excel" width="40" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Excel" width="40" height="40" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
   </a>
 </p>
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,vscode,github&theme=dark" alt="Skills" />
+</div>
+
+## 📊 Data Analytics Skills
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 🔍 Data Analysis
+- 📊 **Exploratory Data Analysis (EDA)**
+- 📈 **Statistical Analysis**
+- 🔢 **Descriptive Statistics**
+- 📊 **Data Cleaning & Preprocessing**
+- 🎯 **A/B Testing**
+- 📉 **Trend Analysis**
+
+</td>
+<td valign="top" width="50%">
+
+### 📊 Visualization & Reporting
+- 📊 **Dashboard Creation**
+- 📈 **Interactive Charts**
+- 📋 **Business Reports**
+- 🎨 **Data Storytelling**
+- 📊 **KPI Monitoring**
+- 📈 **Performance Metrics**
+
+</td>
+</tr>
+</table>
+
 <h3 align="left">🎯 Current Focus Areas:</h3>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" alt="Data Visualization GIF"/>
+</div>
+
 - 📊 **Data Analytics & Visualization**: Python, Pandas, Matplotlib, Seaborn
-- 🗃️ **Database Management**: MySQL, SQL Queries, Data Warehousing
+- 🗄️ **Database Management**: MySQL, SQL Queries, Data Warehousing
 - 📈 **Marketing Analytics**: Campaign Performance, Conversion Tracking, ROI Analysis
 - 🎯 **Affiliate Marketing**: Performance Optimization, Lead Generation, Revenue Analytics
 - 📋 **Business Intelligence**: Dashboard Creation, KPI Monitoring, Reporting
+- 🔮 **Predictive Analytics**: Forecasting, Machine Learning Models
+- 📊 **Statistical Analysis**: Hypothesis Testing, Regression Analysis
+
+## 📈 Data Analytics Journey
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rishabhjais&theme=onedark" alt="GitHub Trophies" />
+  <img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="150" alt="Analytics Process GIF"/>
+</div>
+
+```
+📊 Data Collection → 🧹 Data Cleaning → 🔍 Analysis → 📈 Visualization → 💡 Insights → 📋 Decisions
+```
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rishabhjais&theme=onedark&no-frame=true&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center">📊 GitHub Analytics</h3>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" alt="Chart GIF"/>
+</div>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishabhjais&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishabhjais&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </p>
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabhjais&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabhjais&show_icons=true&locale=en&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhjais&theme=dark" alt="GitHub Streak Stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhjais&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=FFFFFF" alt="GitHub Streak Stats" />
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishabhjais&theme=react-dark" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishabhjais&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Contribution Graph" />
+</div>
+
+## 🎯 Data Analytics Badges
+
+<div align="center">
+  <img src="https://img.shields.io/badge/📊-Data%20Analyst-blue?style=for-the-badge&logo=chart.js&logoColor=white" alt="Data Analyst"/>
+  <img src="https://img.shields.io/badge/🐍-Python-yellow?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/🗄️-SQL-orange?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/📊-Pandas-green?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/📈-Matplotlib-red?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/🎨-Seaborn-purple?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/📊-Power%20BI-yellow?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/📈-Tableau-blue?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+  <img src="https://img.shields.io/badge/💻-Jupyter-orange?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/📊-Excel-green?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
 </div>
 
 <div align="center">
   
-  ⭐️ From [Rishabh Jaiswal](https://github.com/rishabhjais)
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Hand Wave GIF"/> 
+  
+  **⭐️ From [Rishabh Jaiswal](https://github.com/rishabhjais) | 🚀 Turning Data into Insights**
   
   ![Snake animation](https://github.com/rishabhjais/rishabhjais/blob/output/github-contribution-grid-snake.svg)
   
