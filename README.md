@@ -1,200 +1,76 @@
-<h1 align="center">Hi 👋, I'm Rishabh Jaiswal</h1>
-<h3 align="center">📊 Data Analyst & Operations Specialist | 💼 Affiliate Marketing Professional 🚀</h3>
+Project Link - https://github.com/Rishabhjaiswal045/Rishabhjaiswal045/blob/main/AirPods%20Dashboard.pbix
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=📊+Data+Analytics+Enthusiast;📈+Operations+Analyst;🎯+Affiliate+Marketing+Pro;🐍+Python+%7C+🗄️+SQL+%7C+📊+Data+Visualization;📋+Turning+Data+into+Insights+💡" alt="Typing SVG" />
-</div>
+YTD progress,
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300" alt="Data Analytics GIF"/>
-</div>
+Customer purchase patterns,
 
-<img align="right" alt="Data Analytics" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+Profitability by product type,
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=rishabhjais&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhjais" /> 
-  <img src="https://img.shields.io/github/followers/rishabhjais?label=Followers&style=social" alt="followers" />
-  <img src="https://img.shields.io/badge/Focus-Data%20Analytics-blue" alt="focus" />
-</p>
+Budget alignment."
 
-## 📊 About Me
+Steps followed
+Built a comprehensive Power BI dashboard connecting orders, transactions, and budget data. It now tracks:
 
-- 🔭 I'm currently working as an **Operations Analyst** at **Adcounty Media Ltd** - *🎯 Affiliate Marketing & Advertising Services*
-- 🌱 I'm currently learning **Data Analytics** from **CodeBasics** and expanding my skills in **🐍 Python & 🗄️ SQL**
-- 📊 Passionate about **📈 Data-Driven Decision Making** and **📊 Performance Marketing Analytics**
-- 💼 Experienced in **🎯 Affiliate Marketing Operations**, **⚡ Campaign Optimization**, and **📊 Performance Tracking**
-- 📈 Working with **📊 Marketing Data**, **🎯 Conversion Analytics**, and **💰 ROI Optimization**
-- 🧮 Love working with **📊 Spreadsheets**, **📈 Charts**, and **🔍 Data Mining**
-- 🤖 Exploring **Machine Learning** and **🔮 Predictive Analytics**
-- 🌍 Based in **Gurugram, Haryana, India** 📍
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/rishabh-jaiswal-%F0%9F%87%AE%F0%9F%87%B3-499941219/)** 💬
-- ⚡ Fun fact: **I turn data into actionable insights (and yes, I'm still funny!) 😄**
-- 🎯 Goal: **Become a Senior Data Analyst by 2025** 🚀
+YTD Sales vs Budget
 
-<h3 align="left">🤝 Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/rishabh-jaiswal-%F0%9F%87%AE%F0%9F%87%B3-499941219/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rishabh LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/_.rishabh_jaiswal" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Rishabh Instagram" height="30" width="40" />
-  </a>
-  <a href="mailto:your.email@example.com" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" />
-  </a>
-</p>
+Category/Segment behavior
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" />
-  </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40" />
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40" />
-  </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40" />
-  </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40" />
-  </a>
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="40" height="40" />
-  </a>
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40" />
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" />
-  </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Excel" width="40" height="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
-  </a>
-</p>
+Payment preferences
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,vscode,github&theme=dark" alt="Skills" />
-</div>
+Profit by Product Line
 
-## 📊 Data Analytics Skills
+I designed an end-to-end Promo AirPods Sales Dashboard in Power BI by integrating raw sales, budget, and product-level data.
 
-<table>
-<tr>
-<td valign="top" width="50%">
+✅ Unified Data Model: Combined 3 data sources (Orders, Details, Budget) with clean relationships and DAX-driven logic.
 
-### 🔍 Data Analysis
-- 📊 **Exploratory Data Analysis (EDA)**
-- 📈 **Statistical Analysis**
-- 🔢 **Descriptive Statistics**
-- 📊 **Data Cleaning & Preprocessing**
-- 🎯 **A/B Testing**
-- 📉 **Trend Analysis**
+✅ YTD Sales Intelligence: Compared 2023 vs 2022 YTD figures, normalized to today’s date, to give a fair growth percentage.
 
-</td>
-<td valign="top" width="50%">
+✅ Budget vs Actual Tracking: Showed where actual sales stand against projected 2023 budgets, enabling proactive decision-making.
 
-### 📊 Visualization & Reporting
-- 📊 **Dashboard Creation**
-- 📈 **Interactive Charts**
-- 📋 **Business Reports**
-- 🎨 **Data Storytelling**
-- 📊 **KPI Monitoring**
-- 📈 **Performance Metrics**
+✅ Profitability by Sub-Category: Highlighted top-performing AirPods models based on net profit, helping marketing prioritize promotions.
 
-</td>
-</tr>
-</table>
+✅ Customer Segmentation: Visualized sales breakdown by Category (Male/Female/Unisex) and Payment Mode, offering actionable insights on buyer behavior.
 
-<h3 align="left">🎯 Current Focus Areas:</h3>
+✅ Monthly Trend Visualization: Used an area chart to show profit drop-offs or spikes by month, ideal for aligning marketing and supply chain.
 
-<div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" alt="Data Visualization GIF"/>
-</div>
+✅ UX Optimized for Leadership: Used KPIs, slicers (by gender), tooltips, and clean layout for a dashboard that enables leadership to make decisions fast — no digging required.
 
-- 📊 **Data Analytics & Visualization**: Python, Pandas, Matplotlib, Seaborn
-- 🗄️ **Database Management**: MySQL, SQL Queries, Data Warehousing
-- 📈 **Marketing Analytics**: Campaign Performance, Conversion Tracking, ROI Analysis
-- 🎯 **Affiliate Marketing**: Performance Optimization, Lead Generation, Revenue Analytics
-- 📋 **Business Intelligence**: Dashboard Creation, KPI Monitoring, Reporting
-- 🔮 **Predictive Analytics**: Forecasting, Machine Learning Models
-- 📊 **Statistical Analysis**: Hypothesis Testing, Regression Analysis
+✅ Scalable for Future Campaigns: The model can be easily extended to other product lines or seasonal campaigns by simply updating the source files.
 
-## 📈 Data Analytics Journey
+for creating new column following DAX expression was written;
 
-<div align="center">
-  <img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="150" alt="Analytics Process GIF"/>
-</div>
+🧮 1. YTD Sales 2023 dax Copy Edit YTD Sales 2023 = CALCULATE( SUM(Details_1[Amount]), FILTER( Orders_1, YEAR(Orders_1[Order Date]) = 2023 && Orders_1[Order Date] <= TODAY() ) )
 
-```
-📊 Data Collection → 🧹 Data Cleaning → 🔍 Analysis → 📈 Visualization → 💡 Insights → 📋 Decisions
-```
+🧮 2. YTD Sales 2022 dax Copy Edit YTD Sales 2022 = CALCULATE( SUM(Details_1[Amount]), FILTER( Orders_1, YEAR(Orders_1[Order Date]) = 2022 && Orders_1[Order Date] <= DATE(2022, MONTH(TODAY()), DAY(TODAY())) ) )
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rishabhjais&theme=onedark&no-frame=true&column=7" alt="GitHub Trophies" />
-</div>
+🧮 3. Growth % (2022 vs 2023) dax Copy Edit Growth 22 vs 23 = DIVIDE( [YTD Sales 2023] - [YTD Sales 2022], [YTD Sales 2022] )
 
----
+🧮 4. Budget 2023 dax Copy Edit Budget 2023 = CALCULATE( SUM(Budget[Amount]), Budget[Year] = 2023 )
 
-<h3 align="center">📊 GitHub Analytics</h3>
+🧮 5. Profit by Sub-Category Use in a visual:
 
-<div align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" alt="Chart GIF"/>
-</div>
+Axis: Details_1[Sub-Category]
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishabhjais&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</p>
+Values: SUM(Details_1[Profit])
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabhjais&show_icons=true&locale=en&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-</p>
+Or create a measure:
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhjais&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=FFFFFF" alt="GitHub Streak Stats" />
-</p>
+dax Copy Edit Total Profit = SUM(Details_1[Profit])
 
----
+🧮 6. Profit by Month Ensure Order Date is in the axis (Month format) and plot:
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishabhjais&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Contribution Graph" />
-</div>
+SUM(Details_1[Profit])
 
-## 🎯 Data Analytics Badges
+SUM(Details_1[Amount])
 
-<div align="center">
-  <img src="https://img.shields.io/badge/📊-Data%20Analyst-blue?style=for-the-badge&logo=chart.js&logoColor=white" alt="Data Analyst"/>
-  <img src="https://img.shields.io/badge/🐍-Python-yellow?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/🗄️-SQL-orange?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/📊-Pandas-green?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/📈-Matplotlib-red?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/🎨-Seaborn-purple?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
-</div>
+Optional Measures:
 
-<div align="center">
-  <img src="https://img.shields.io/badge/📊-Power%20BI-yellow?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/📈-Tableau-blue?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
-  <img src="https://img.shields.io/badge/💻-Jupyter-orange?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/📊-Excel-green?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
-</div>
+dax Copy Edit Monthly Profit = CALCULATE( SUM(Details_1[Profit]), FILTER( Orders_1, YEAR(Orders_1[Order Date]) = 2023 ) )
 
-<div align="center">
-  
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Hand Wave GIF"/> 
-  
-  **⭐️ From [Rishabh Jaiswal](https://github.com/rishabhjais) | 🚀 Turning Data into Insights**
-  
-  ![Snake animation](https://github.com/rishabhjais/rishabhjais/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
+Monthly Sales = CALCULATE( SUM(Details_1[Amount]), FILTER( Orders_1, YEAR(Orders_1[Order Date]) = 2023 ) )
+
+🧮 7. Payment Mode Share (for pie chart) Use:
+
+Legend: Details_1[PaymentMode]
+
+Values: SUM(Details_1[Amount])
