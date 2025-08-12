@@ -1,636 +1,272 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Rishabh Jaiswal - Data Analyst & Operations Specialist</title>
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
+# Hi 👋, I'm Rishabh Jaiswal
 
-        body {
-            font-family: 'Segoe UI', Taurus, Geneva, Verdana, sans-serif;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            color: #333;
-            line-height: 1.6;
-        }
+<div align="center">
+  
+## 📊 Data Analyst & Operations Specialist | 💼 Affiliate Marketing Professional 🚀
 
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 20px;
-        }
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=📊+Data+Analytics+Enthusiast;📈+Operations+Analyst;🎯+Affiliate+Marketing+Pro;🐍+Python+%7C+🗄️+SQL+%7C+📊+Data+Visualization;📋+Turning+Data+into+Insights+💡" alt="Typing SVG" />
 
-        /* Header Section */
-        .header {
-            background: rgba(255, 255, 255, 0.95);
-            backdrop-filter: blur(10px);
-            border-radius: 20px;
-            padding: 40px;
-            text-align: center;
-            margin-bottom: 30px;
-            box-shadow: 0 15px 35px rgba(0, 0, 0, 0.1);
-            border: 1px solid rgba(255, 255, 255, 0.2);
-        }
+</div>
 
-        .profile-img {
-            width: 150px;
-            height: 150px;
-            border-radius: 50%;
-            margin: 0 auto 20px;
-            background: linear-gradient(135deg, #667eea, #764ba2);
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-size: 60px;
-            color: white;
-            animation: float 3s ease-in-out infinite;
-        }
+<div align="center">
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300" alt="Data Analytics GIF"/>
+</div>
 
-        @keyframes float {
-            0%, 100% { transform: translateY(0px); }
-            50% { transform: translateY(-10px); }
-        }
+<img align="right" alt="Data Analytics" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
-        .header h1 {
-            font-size: 2.5em;
-            margin-bottom: 10px;
-            background: linear-gradient(135deg, #667eea, #764ba2);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
-        }
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=rishabhjais&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhjais" />
+  <img src="https://img.shields.io/github/followers/rishabhjais?label=Followers&style=social" alt="followers" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Analytics-blue" alt="focus" />
+</p>
 
-        .header .subtitle {
-            font-size: 1.2em;
-            color: #666;
-            margin-bottom: 20px;
-        }
+## 📊 About Me
 
-        .typing-animation {
-            font-size: 1.1em;
-            color: #0E75B6;
-            font-weight: 500;
-            min-height: 30px;
-        }
+- 🔭 I'm currently working as an **Operations Analyst** at **Adcounty Media Ltd** - *🎯 Affiliate Marketing & Advertising Services*
+- 🌱 I'm currently learning **Data Analytics** from **CodeBasics** and expanding my skills in **🐍 Python & 🗄️ SQL**
+- 📊 Passionate about **📈 Data-Driven Decision Making** and **📊 Performance Marketing Analytics**
+- 💼 Experienced in **🎯 Affiliate Marketing Operations**, **⚡ Campaign Optimization**, and **📊 Performance Tracking**
+- 📈 Working with **📊 Marketing Data**, **🎯 Conversion Analytics**, and **💰 ROI Optimization**
+- 🧮 Love working with **📊 Spreadsheets**, **📈 Charts**, and **🔍 Data Mining**
+- 🤖 Exploring **Machine Learning** and **🔮 Predictive Analytics**
+- 🌍 Based in **Gurugram, Haryana, India** 📍
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/rishabh-jaiswal-%F0%9F%87%AE%F0%9F%87%B3-499941219/)** 💬
+- ⚡ Fun fact: **I turn data into actionable insights (and yes, I'm still funny!) 😄**
+- 🎯 Goal: **Become a Senior Data Analyst by 2025** 🚀
 
-        /* Navigation */
-        .nav-tabs {
-            display: flex;
-            justify-content: center;
-            background: rgba(255, 255, 255, 0.9);
-            border-radius: 15px;
-            padding: 10px;
-            margin-bottom: 30px;
-            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
-        }
+## 🤝 Connect with me:
 
-        .nav-tab {
-            background: none;
-            border: none;
-            padding: 12px 25px;
-            cursor: pointer;
-            border-radius: 10px;
-            margin: 0 5px;
-            transition: all 0.3s ease;
-            font-weight: 500;
-        }
+<p align="left">
+  <a href="https://www.linkedin.com/in/rishabh-jaiswal-%F0%9F%87%AE%F0%9F%87%B3-499941219/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rishabh LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/_.rishabh_jaiswal" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Rishabh Instagram" height="30" width="40" />
+  </a>
+  <a href="mailto:rishabhjaiswal.analyst@gmail.com" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" />
+  </a>
+</p>
 
-        .nav-tab.active {
-            background: linear-gradient(135deg, #667eea, #764ba2);
-            color: white;
-            transform: translateY(-2px);
-        }
+## 🛠️ Languages and Tools:
 
-        .nav-tab:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
-        }
+<div align="center">
+  
+### 💻 Programming & Database
+<p>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" />
+  </a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
+  </a>
+</p>
 
-        /* Content Sections */
-        .content-section {
-            display: none;
-            background: rgba(255, 255, 255, 0.95);
-            backdrop-filter: blur(10px);
-            border-radius: 20px;
-            padding: 40px;
-            margin-bottom: 30px;
-            box-shadow: 0 15px 35px rgba(0, 0, 0, 0.1);
-            border: 1px solid rgba(255, 255, 255, 0.2);
-        }
+### 📊 Data Analysis & Visualization
+<p>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" />
+  </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40" />
+  </a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40" />
+  </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40" />
+  </a>
+</p>
 
-        .content-section.active {
-            display: block;
-            animation: fadeInUp 0.6s ease;
-        }
+### 📈 Business Intelligence Tools
+<p>
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40" />
+  </a>
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="40" height="40" />
+  </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Excel" width="40" height="40" />
+  </a>
+</p>
 
-        @keyframes fadeInUp {
-            from {
-                opacity: 0;
-                transform: translateY(30px);
-            }
-            to {
-                opacity: 1;
-                transform: translateY(0);
-            }
-        }
+</div>
 
-        /* Skills Grid */
-        .skills-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-            gap: 20px;
-            margin-top: 20px;
-        }
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,vscode,github&theme=dark" alt="Skills" />
+</div>
 
-        .skill-category {
-            background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
-            border-radius: 15px;
-            padding: 25px;
-            color: white;
-            text-align: center;
-            transition: transform 0.3s ease;
-        }
+## 📊 Data Analytics Skills
 
-        .skill-category:hover {
-            transform: translateY(-5px);
-        }
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      
+### 🔍 Data Analysis
+- 📊 **Exploratory Data Analysis (EDA)**
+- 📈 **Statistical Analysis**
+- 🔢 **Descriptive Statistics**
+- 📊 **Data Cleaning & Preprocessing**
+- 🎯 **A/B Testing**
+- 📉 **Trend Analysis**
 
-        .skill-category h3 {
-            margin-bottom: 15px;
-            font-size: 1.3em;
-        }
+    </td>
+    <td valign="top" width="33%">
+      
+### 📊 Visualization & Reporting
+- 📊 **Dashboard Creation**
+- 📈 **Interactive Charts**
+- 📋 **Business Reports**
+- 🎨 **Data Storytelling**
+- 📊 **KPI Monitoring**
+- 📈 **Performance Metrics**
 
-        .skill-item {
-            background: rgba(255, 255, 255, 0.2);
-            margin: 8px 0;
-            padding: 8px 15px;
-            border-radius: 20px;
-            font-size: 0.9em;
-        }
+    </td>
+    <td valign="top" width="34%">
+      
+### 💼 Business Intelligence
+- 🎯 **Campaign Performance Analysis**
+- 💰 **ROI Optimization**
+- 📊 **Market Research**
+- 🔮 **Predictive Analytics**
+- 📋 **Automated Reporting**
+- 📈 **Revenue Analytics**
 
-        /* Tech Stack */
-        .tech-stack {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 15px;
-            justify-content: center;
-            margin: 20px 0;
-        }
+    </td>
+  </tr>
+</table>
 
-        .tech-item {
-            background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
-            color: white;
-            padding: 12px 20px;
-            border-radius: 25px;
-            font-weight: 500;
-            transition: all 0.3s ease;
-            cursor: pointer;
-        }
+## 🎯 Current Focus Areas:
 
-        .tech-item:hover {
-            transform: translateY(-3px);
-            box-shadow: 0 8px 25px rgba(79, 172, 254, 0.4);
-        }
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" alt="Data Visualization GIF"/>
+</div>
 
-        /* Experience Timeline */
-        .timeline {
-            position: relative;
-            padding-left: 30px;
-        }
+- 📊 **Data Analytics & Visualization**: Python, Pandas, Matplotlib, Seaborn
+- 🗄️ **Database Management**: MySQL, SQL Queries, Data Warehousing
+- 📈 **Marketing Analytics**: Campaign Performance, Conversion Tracking, ROI Analysis
+- 🎯 **Affiliate Marketing**: Performance Optimization, Lead Generation, Revenue Analytics
+- 📋 **Business Intelligence**: Dashboard Creation, KPI Monitoring, Reporting
+- 🔮 **Predictive Analytics**: Forecasting, Machine Learning Models
+- 📊 **Statistical Analysis**: Hypothesis Testing, Regression Analysis
 
-        .timeline::before {
-            content: '';
-            position: absolute;
-            left: 15px;
-            top: 0;
-            bottom: 0;
-            width: 2px;
-            background: linear-gradient(135deg, #667eea, #764ba2);
-        }
+## 📈 My Data Analytics Journey
 
-        .timeline-item {
-            position: relative;
-            margin-bottom: 30px;
-            background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%);
-            padding: 25px;
-            border-radius: 15px;
-            margin-left: 20px;
-        }
+<div align="center">
+  <img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="150" alt="Analytics Process GIF"/>
+</div>
 
-        .timeline-item::before {
-            content: '';
-            position: absolute;
-            left: -35px;
-            top: 25px;
-            width: 10px;
-            height: 10px;
-            background: #667eea;
-            border-radius: 50%;
-        }
+```
+📊 Data Collection → 🧹 Data Cleaning → 🔍 Analysis → 📈 Visualization → 💡 Insights → 📋 Decisions
+```
 
-        /* Contact Section */
-        .contact-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-            gap: 20px;
-            margin-top: 20px;
-        }
+## 🏆 GitHub Achievements
 
-        .contact-item {
-            background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%);
-            padding: 20px;
-            border-radius: 15px;
-            text-align: center;
-            transition: transform 0.3s ease;
-        }
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rishabhjais&theme=onedark&no-frame=true&column=7" alt="GitHub Trophies" />
+</div>
 
-        .contact-item:hover {
-            transform: translateY(-5px);
-        }
+---
 
-        .contact-item i {
-            font-size: 2em;
-            margin-bottom: 10px;
-            color: #667eea;
-        }
+## 📊 GitHub Analytics
 
-        .contact-item a {
-            color: #333;
-            text-decoration: none;
-            font-weight: 500;
-        }
+<div align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" alt="Chart GIF"/>
+</div>
 
-        /* Analytics Dashboard */
-        .analytics-dashboard {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-            gap: 20px;
-            margin-top: 20px;
-        }
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rishabhjais&show_icons=true&locale=en&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+</div>
 
-        .metric-card {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            color: white;
-            padding: 25px;
-            border-radius: 15px;
-            text-align: center;
-            transition: transform 0.3s ease;
-        }
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rishabhjais&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
 
-        .metric-card:hover {
-            transform: translateY(-5px);
-        }
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhjais&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=FFFFFF" alt="GitHub Streak Stats" />
+</div>
 
-        .metric-value {
-            font-size: 2em;
-            font-weight: bold;
-            margin-bottom: 5px;
-        }
+---
 
-        .metric-label {
-            font-size: 0.9em;
-            opacity: 0.9;
-        }
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishabhjais&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Contribution Graph" />
+</div>
 
-        /* Responsive Design */
-        @media (max-width: 768px) {
-            .header h1 {
-                font-size: 2em;
-            }
-            
-            .nav-tabs {
-                flex-wrap: wrap;
-            }
-            
-            .content-section {
-                padding: 20px;
-            }
-            
-            .skills-grid,
-            .contact-grid,
-            .analytics-dashboard {
-                grid-template-columns: 1fr;
-            }
-        }
+## 🚀 Featured Projects
 
-        /* Scroll animations */
-        .fade-in {
-            opacity: 0;
-            transform: translateY(20px);
-            transition: all 0.6s ease;
-        }
+> *Coming Soon - Working on exciting data analytics projects!*
 
-        .fade-in.visible {
-            opacity: 1;
-            transform: translateY(0);
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <!-- Header Section -->
-        <div class="header fade-in">
-            <div class="profile-img">
-                <i class="fas fa-chart-line"></i>
-            </div>
-            <h1>Hi 👋, I'm Rishabh Jaiswal</h1>
-            <p class="subtitle">📊 Data Analyst & Operations Specialist | 💼 Affiliate Marketing Professional 🚀</p>
-            <div class="typing-animation" id="typingText">
-                📊 Data Analytics Enthusiast
-            </div>
-        </div>
+### 📊 Upcoming Projects:
+- **Marketing Campaign Analysis Dashboard** - Interactive Power BI dashboard
+- **Customer Segmentation Analysis** - Python-based clustering project
+- **Sales Forecasting Model** - Time series analysis and prediction
+- **Web Analytics Deep Dive** - Google Analytics data insights
 
-        <!-- Navigation -->
-        <div class="nav-tabs fade-in">
-            <button class="nav-tab active" onclick="showSection('about')">About Me</button>
-            <button class="nav-tab" onclick="showSection('skills')">Skills</button>
-            <button class="nav-tab" onclick="showSection('experience')">Experience</button>
-            <button class="nav-tab" onclick="showSection('analytics')">Analytics</button>
-            <button class="nav-tab" onclick="showSection('contact')">Contact</button>
-        </div>
+## 🎯 Data Analytics Badges
 
-        <!-- About Section -->
-        <div id="about" class="content-section active">
-            <h2><i class="fas fa-user"></i> About Me</h2>
-            <p style="font-size: 1.1em; margin: 20px 0;">
-                🔭 I'm currently working as an <strong>Operations Analyst</strong> at <strong>Adcounty Media Ltd</strong> - 
-                focusing on Affiliate Marketing & Advertising Services.
-            </p>
-            <p style="margin: 15px 0;">
-                🌱 I'm currently learning <strong>Data Analytics</strong> from <strong>CodeBasics</strong> and expanding my skills in 
-                <strong>🐍 Python & 🗄️ SQL</strong>
-            </p>
-            <p style="margin: 15px 0;">
-                📊 Passionate about <strong>📈 Data-Driven Decision Making</strong> and <strong>📊 Performance Marketing Analytics</strong>
-            </p>
-            <p style="margin: 15px 0;">
-                🌍 Based in <strong>Gurugram, Haryana, India</strong> 📍
-            </p>
-            <p style="margin: 15px 0;">
-                🎯 Goal: <strong>Become a Senior Data Analyst by 2025</strong> 🚀
-            </p>
-            <div style="text-align: center; margin: 30px 0;">
-                <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" 
-                     alt="Data Analytics" style="max-width: 300px; border-radius: 15px;">
-            </div>
-        </div>
+<div align="center">
+  <img src="https://img.shields.io/badge/📊-Data%20Analyst-blue?style=for-the-badge&logo=chart.js&logoColor=white" alt="Data Analyst"/>
+  <img src="https://img.shields.io/badge/🐍-Python-yellow?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/🗄️-SQL-orange?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/📊-Pandas-green?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/📈-Matplotlib-red?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/🎨-Seaborn-purple?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
+</div>
 
-        <!-- Skills Section -->
-        <div id="skills" class="content-section">
-            <h2><i class="fas fa-tools"></i> Technical Skills</h2>
-            <div class="tech-stack">
-                <span class="tech-item">🐍 Python</span>
-                <span class="tech-item">🗄️ SQL/MySQL</span>
-                <span class="tech-item">📊 Pandas</span>
-                <span class="tech-item">🔢 NumPy</span>
-                <span class="tech-item">📈 Matplotlib</span>
-                <span class="tech-item">🎨 Seaborn</span>
-                <span class="tech-item">📊 Power BI</span>
-                <span class="tech-item">📈 Tableau</span>
-                <span class="tech-item">💻 Jupyter</span>
-                <span class="tech-item">📊 Excel</span>
-                <span class="tech-item">🔧 Git</span>
-            </div>
+<div align="center">
+  <img src="https://img.shields.io/badge/📊-Power%20BI-yellow?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/📈-Tableau-blue?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+  <img src="https://img.shields.io/badge/💻-Jupyter-orange?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/📊-Excel-green?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+</div>
 
-            <div class="skills-grid">
-                <div class="skill-category">
-                    <h3>🔍 Data Analysis</h3>
-                    <div class="skill-item">📊 Exploratory Data Analysis (EDA)</div>
-                    <div class="skill-item">📈 Statistical Analysis</div>
-                    <div class="skill-item">🔢 Descriptive Statistics</div>
-                    <div class="skill-item">📊 Data Cleaning & Preprocessing</div>
-                    <div class="skill-item">🎯 A/B Testing</div>
-                    <div class="skill-item">📉 Trend Analysis</div>
-                </div>
+## 📈 Learning Path & Certifications
 
-                <div class="skill-category">
-                    <h3>📊 Visualization & Reporting</h3>
-                    <div class="skill-item">📊 Dashboard Creation</div>
-                    <div class="skill-item">📈 Interactive Charts</div>
-                    <div class="skill-item">📋 Business Reports</div>
-                    <div class="skill-item">🎨 Data Storytelling</div>
-                    <div class="skill-item">📊 KPI Monitoring</div>
-                    <div class="skill-item">📈 Performance Metrics</div>
-                </div>
+- 🎓 **Currently Enrolled**: Data Analytics Course - CodeBasics
+- 📚 **Next Goals**: 
+  - Google Data Analytics Certificate
+  - Microsoft Power BI Certification
+  - Python for Data Science Specialization
+  - Advanced SQL for Data Scientists
 
-                <div class="skill-category">
-                    <h3>💼 Business Analytics</h3>
-                    <div class="skill-item">🎯 Campaign Performance</div>
-                    <div class="skill-item">📊 Conversion Tracking</div>
-                    <div class="skill-item">💰 ROI Analysis</div>
-                    <div class="skill-item">📈 Marketing Analytics</div>
-                    <div class="skill-item">🔮 Predictive Analytics</div>
-                    <div class="skill-item">📋 Business Intelligence</div>
-                </div>
-            </div>
-        </div>
+## 💡 Latest Blog Posts & Insights
 
-        <!-- Experience Section -->
-        <div id="experience" class="content-section">
-            <h2><i class="fas fa-briefcase"></i> Professional Experience</h2>
-            <div class="timeline">
-                <div class="timeline-item">
-                    <h3>Operations Analyst</h3>
-                    <h4>Adcounty Media Ltd</h4>
-                    <p><i class="fas fa-calendar"></i> Present</p>
-                    <ul style="margin-top: 15px;">
-                        <li>💼 Managing affiliate marketing operations and advertising services</li>
-                        <li>⚡ Optimizing campaign performance and conversion tracking</li>
-                        <li>📊 Analyzing marketing data and ROI optimization</li>
-                        <li>📈 Working with performance tracking and analytics</li>
-                        <li>🔍 Data mining and insights generation</li>
-                    </ul>
-                </div>
-            </div>
+> *Coming Soon - Will share insights about data analytics, affiliate marketing, and business intelligence*
 
-            <h3 style="margin-top: 30px;"><i class="fas fa-graduation-cap"></i> Current Learning</h3>
-            <div class="timeline-item" style="margin-left: 0;">
-                <h4>Data Analytics Course</h4>
-                <p><strong>CodeBasics</strong></p>
-                <p>Expanding skills in Python, SQL, and advanced data analytics techniques</p>
-            </div>
-        </div>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-        <!-- Analytics Section -->
-        <div id="analytics" class="content-section">
-            <h2><i class="fas fa-chart-bar"></i> Data Analytics Journey</h2>
-            <div style="text-align: center; margin: 20px 0;">
-                <p style="font-size: 1.2em; background: linear-gradient(135deg, #667eea, #764ba2); 
-                   color: white; padding: 20px; border-radius: 15px;">
-                    📊 Data Collection → 🧹 Data Cleaning → 🔍 Analysis → 📈 Visualization → 💡 Insights → 📋 Decisions
-                </p>
-            </div>
+## 📊 Weekly Development Breakdown
 
-            <div class="analytics-dashboard">
-                <div class="metric-card">
-                    <div class="metric-value">2+</div>
-                    <div class="metric-label">Years Experience</div>
-                </div>
-                <div class="metric-card">
-                    <div class="metric-value">10+</div>
-                    <div class="metric-label">Tools & Technologies</div>
-                </div>
-                <div class="metric-card">
-                    <div class="metric-value">100+</div>
-                    <div class="metric-label">Campaigns Analyzed</div>
-                </div>
-                <div class="metric-card">
-                    <div class="metric-value">∞</div>
-                    <div class="metric-label">Insights Generated</div>
-                </div>
-            </div>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-            <h3 style="margin-top: 30px;"><i class="fas fa-target"></i> Focus Areas</h3>
-            <ul style="list-style: none; padding: 0;">
-                <li style="margin: 10px 0;"><i class="fas fa-chart-line" style="color: #667eea;"></i> Data Analytics & Visualization</li>
-                <li style="margin: 10px 0;"><i class="fas fa-database" style="color: #667eea;"></i> Database Management & SQL</li>
-                <li style="margin: 10px 0;"><i class="fas fa-bullseye" style="color: #667eea;"></i> Marketing Analytics</li>
-                <li style="margin: 10px 0;"><i class="fas fa-rocket" style="color: #667eea;"></i> Performance Optimization</li>
-                <li style="margin: 10px 0;"><i class="fas fa-brain" style="color: #667eea;"></i> Predictive Analytics</li>
-                <li style="margin: 10px 0;"><i class="fas fa-chart-pie" style="color: #667eea;"></i> Business Intelligence</li>
-            </ul>
-        </div>
+---
 
-        <!-- Contact Section -->
-        <div id="contact" class="content-section">
-            <h2><i class="fas fa-envelope"></i> Connect With Me</h2>
-            <div class="contact-grid">
-                <div class="contact-item">
-                    <i class="fab fa-linkedin"></i>
-                    <h3>LinkedIn</h3>
-                    <a href="https://www.linkedin.com/in/rishabh-jaiswal-%F0%9F%87%AE%F0%9F%87%B3-499941219/" target="_blank">
-                        Connect Professional Network
-                    </a>
-                </div>
-                <div class="contact-item">
-                    <i class="fab fa-instagram"></i>
-                    <h3>Instagram</h3>
-                    <a href="https://www.instagram.com/_.rishabh_jaiswal" target="_blank">
-                        @_.rishabh_jaiswal
-                    </a>
-                </div>
-                <div class="contact-item">
-                    <i class="fas fa-envelope"></i>
-                    <h3>Email</h3>
-                    <a href="mailto:your.email@example.com">
-                        Send Message
-                    </a>
-                </div>
-                <div class="contact-item">
-                    <i class="fab fa-github"></i>
-                    <h3>GitHub</h3>
-                    <a href="https://github.com/rishabhjais" target="_blank">
-                        View Projects
-                    </a>
-                </div>
-            </div>
-            
-            <div style="text-align: center; margin-top: 30px;">
-                <p style="font-size: 1.1em; color: #666;">
-                    📍 Based in <strong>Gurugram, Haryana, India</strong>
-                </p>
-                <p style="margin-top: 10px;">
-                    ⚡ Fun fact: <strong>I turn data into actionable insights (and yes, I'm still funny!) 😄</strong>
-                </p>
-            </div>
-        </div>
-    </div>
+<div align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Hand Wave GIF"/>
+  
+  **⭐️ From [Rishabh Jaiswal](https://github.com/rishabhjais) | 🚀 Turning Data into Insights**
+  
+  ![Snake animation](https://github.com/rishabhjais/rishabhjais/blob/output/github-contribution-grid-snake.svg)
+  
+  ### 💬 Let's Connect and Collaborate!
+  *Always open to discussing data analytics, affiliate marketing insights, and exciting project opportunities.*
+  
+</div>
 
-    <script>
-        // Tab Navigation
-        function showSection(sectionId) {
-            // Hide all sections
-            document.querySelectorAll('.content-section').forEach(section => {
-                section.classList.remove('active');
-            });
-            
-            // Remove active class from all tabs
-            document.querySelectorAll('.nav-tab').forEach(tab => {
-                tab.classList.remove('active');
-            });
-            
-            // Show selected section
-            document.getElementById(sectionId).classList.add('active');
-            
-            // Add active class to clicked tab
-            event.target.classList.add('active');
-        }
+---
 
-        // Typing Animation
-        const phrases = [
-            "📊 Data Analytics Enthusiast",
-            "📈 Operations Analyst", 
-            "🎯 Affiliate Marketing Pro",
-            "🐍 Python | 🗄️ SQL | 📊 Data Visualization",
-            "📋 Turning Data into Insights 💡"
-        ];
-        
-        let currentPhrase = 0;
-        let currentChar = 0;
-        let isDeleting = false;
-        
-        function typeAnimation() {
-            const typingElement = document.getElementById('typingText');
-            const currentText = phrases[currentPhrase];
-            
-            if (isDeleting) {
-                typingElement.textContent = currentText.substring(0, currentChar - 1);
-                currentChar--;
-            } else {
-                typingElement.textContent = currentText.substring(0, currentChar + 1);
-                currentChar++;
-            }
-            
-            let typeSpeed = isDeleting ? 50 : 100;
-            
-            if (!isDeleting && currentChar === currentText.length) {
-                typeSpeed = 2000;
-                isDeleting = true;
-            } else if (isDeleting && currentChar === 0) {
-                isDeleting = false;
-                currentPhrase = (currentPhrase + 1) % phrases.length;
-                typeSpeed = 500;
-            }
-            
-            setTimeout(typeAnimation, typeSpeed);
-        }
-        
-        // Start typing animation
-        typeAnimation();
-        
-        // Scroll animations
-        function handleScrollAnimations() {
-            const elements = document.querySelectorAll('.fade-in');
-            const windowHeight = window.innerHeight;
-            
-            elements.forEach(element => {
-                const elementTop = element.getBoundingClientRect().top;
-                
-                if (elementTop < windowHeight - 100) {
-                    element.classList.add('visible');
-                }
-            });
-        }
-        
-        // Initialize animations
-        window.addEventListener('scroll', handleScrollAnimations);
-        window.addEventListener('load', handleScrollAnimations);
-        
-        // Add hover effects to tech items
-        document.querySelectorAll('.tech-item').forEach(item => {
-            item.addEventListener('mouseover', function() {
-                this.style.transform = 'translateY(-5px) scale(1.05)';
-            });
-            
-            item.addEventListener('mouseout', function() {
-                this.style.transform = 'translateY(-3px) scale(1)';
-            });
-        });
-    </script>
-</body>
-</html>
+<div align="center">
+  <i>⚡ "Data is the new oil, but insights are the refined fuel that powers business decisions!" ⚡</i>
+</div>
